@@ -1,0 +1,11 @@
+**/.pytest_cache
+**/__pycache__
+
+.git
+
+myenv/
+dist/
+build/
+ddocs.egg-info/
+
+setup.py
